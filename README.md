@@ -64,6 +64,7 @@ The application follows a client-server architecture:
 
 ## 📂 Project Structure
 
+```
 ShopSmart/ 
 │ 
 ├── Backend/ 
@@ -77,6 +78,7 @@ ShopSmart/
 │ ├──package.json
 │
 └── README.md
+```
 
 ------------------------------------------------------------------------
 
